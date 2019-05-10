@@ -21,7 +21,7 @@ Papers about "Person Re-Identification" 行人重识别相关论文整理
   * [[paper](http://www.cbsr.ia.ac.cn/users/zlei/papers/ICPR2014/Yi-ICPR-14.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10835146.html)]
 #### CVPR2014
 * DeepReID: Deep Filter Pairing Neural Network for Person Re-Identification
-  * Authors: Wei Li, Rui Zhao, Tong Xiao, Xiaogang Wang*
+  * Authors: Wei Li, Rui Zhao, Tong Xiao, [Xiaogang Wang*](http://www.ee.cuhk.edu.hk/~xgwang/)
   * Affiliation: The Chinese University of Hong Kong, Hong Kong
   * [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10845793.html)]
 ## Journal Papers
