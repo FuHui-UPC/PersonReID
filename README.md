@@ -3,6 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2017](#2017): [ICCV2017](#iccv2017)
+  * [2015](#2015): [CVPR2015](#cvpr2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
   * [2016](#2016): [Oct](#october)
@@ -13,6 +14,13 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors:
   * Affiliation:
   * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project]()] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
+### 2015
+#### CVPR2015
+* An Improved Deep Learning Architecture for Person Re-Identification [待读]
+  * Authors & Affiliation:  
+    * Ejaz Ahmed (from University of Maryland)  
+    * Michael Jones and Tim K. Marks (from Mitsubishi Electric Research Labs)
+  * [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)]
 ### 2014
 #### ICPR2014
 * Deep Metric Learning for Person Re-Identification
