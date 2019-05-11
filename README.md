@@ -20,7 +20,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors & Affiliation:  
     * Ejaz Ahmed (from University of Maryland)  
     * Michael Jones and Tim K. Marks (from Mitsubishi Electric Research Labs)
-  * [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)]
+  * [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)] [[project](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID)]
 ### 2014
 #### ICPR2014
 * Deep Metric Learning for Person Re-Identification
