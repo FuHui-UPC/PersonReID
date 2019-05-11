@@ -1,5 +1,5 @@
 # Person ReID
-Papers about "Person Re-Identification" 行人重识别相关论文整理
+Papers about "Person Re-Identification" via deep learning methods 行人重识别深度学习方法相关论文整理
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2017](#2017): [ICCV2017](#iccv2017)
