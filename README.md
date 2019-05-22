@@ -7,6 +7,8 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
   * [2016](#2016): [Oct](#october)
+* [arXiv](#arxiv)
+  * [2016](#2016): [Jun](#june)
 ## Conference Papers
 ### 2017
 #### ICCV2017
@@ -44,4 +46,8 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors: Liang Zheng, Yi Yang, Alexander G. Hauptmann
   * Affiliation: the Centre for Quantum Computation and Intelligent Systems, University of Technology at Sydney, NSW, Australia.
   * [[paper](https://arxiv.org/abs/1610.02984)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10826916.html)]
-  
+## arXiv
+### 2016
+#### June
+* PersonNet: Person Re-identification with Deep Convolutional Neural Networks
+  * [[paper](https://arxiv.org/abs/1601.07255)] [[论文笔记]()]
