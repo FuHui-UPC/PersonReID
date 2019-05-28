@@ -50,4 +50,4 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ### 2016
 #### June
 * PersonNet: Person Re-identification with Deep Convolutional Neural Networks
-  * [[paper](https://arxiv.org/abs/1601.07255)] [[论文笔记]()]
+  * [[paper](https://arxiv.org/abs/1601.07255)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10940045.html)]
