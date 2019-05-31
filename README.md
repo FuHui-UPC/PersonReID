@@ -56,7 +56,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ### 2016
 #### October
 * Person Re-identification: Past, Present and Future
-  * Authors: Liang Zheng, Yi Yang, Alexander G. Hauptmann
+  * Authors: [Liang Zheng](http://www.liangzheng.com.cn/), Yi Yang, Alexander G. Hauptmann
   * Affiliation: the Centre for Quantum Computation and Intelligent Systems, University of Technology at Sydney, NSW, Australia.
   * [[paper](https://arxiv.org/abs/1610.02984)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10826916.html)]
 ## arXiv
