@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2017](#2017): [ICCV2017](#iccv2017)
-  * [2016](#2016): [CVPR2016](#cvpr2016) ; [ECCV2016](#eccv2016)
+  * [2016](#2016): [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
