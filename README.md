@@ -31,6 +31,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
   * [[Paper](https://arxiv.org/abs/1607.08381)]
 * Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function 未读
+* Learning deep feature representations with domain guided dropout for person re-identifcation 未读
 ### 2015
 #### ICCV2015
 * Scalable Person Re-identification: A Benchmark
