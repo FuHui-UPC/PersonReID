@@ -22,7 +22,6 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * MARS: A Video Benchmark for Large-Scale Person Re-identification 未读
   * Authors: [Liang Zheng*](http://www.liangzheng.com.cn/), Zhi Bie*, Yifan Sun*, Jingdong Wang, Shengjin Wang, Chi Su, and Qi Tian
   * Affliations: Research School of Computer Science, Australian National University
-#### CVPR2016
 * A Siamese Long Short-Term Memory Architecture for Human Re-Identification
   * Authors: Rahul Rama Varior<sup>a</sup>, Bing Shuai<sup>a</sup>, Jiwen Lu<sup>b</sup>, Dong Xu<sup>c</sup>, Gang Wang<sup>a</sup>
   * Affiliations: 
@@ -30,6 +29,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     2. Department of Automation, Tsinghua University, Beijing, China.
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
   * [[Paper](https://arxiv.org/abs/1607.08381)]
+#### CVPR2016
 * Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function 未读
 * Learning deep feature representations with domain guided dropout for person re-identifcation 未读
 ### 2015
