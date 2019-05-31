@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2017](#2017): [ICCV2017](#iccv2017)
-  * [2016](#2016): [CVPR2016](#cvpr2016)
+  * [2016](#2016): [CVPR2016](#cvpr2016) ; [ECCV2016](#eccv2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
@@ -18,6 +18,10 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Affiliation:
   * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project]()] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
 ### 2016
+#### ECCV2016
+* MARS: A Video Benchmark for Large-Scale Person Re-identification 未读
+  * Authors: [Liang Zheng*](http://www.liangzheng.com.cn/), Zhi Bie*, Yifan Sun*, Jingdong Wang, Shengjin Wang, Chi Su, and Qi Tian
+  * Affliations: Research School of Computer Science, Australian National University
 #### CVPR2016
 * A Siamese Long Short-Term Memory Architecture for Human Re-Identification
   * Authors: Rahul Rama Varior<sup>a</sup>, Bing Shuai<sup>a</sup>, Jiwen Lu<sup>b</sup>, Dong Xu<sup>c</sup>, Gang Wang<sup>a</sup>
