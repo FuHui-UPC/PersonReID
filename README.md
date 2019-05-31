@@ -30,6 +30,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     2. Department of Automation, Tsinghua University, Beijing, China.
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
   * [[Paper](https://arxiv.org/abs/1607.08381)]
+* Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function 未读
 ### 2015
 #### ICCV2015
 * Scalable Person Re-identification: A Benchmark
