@@ -28,7 +28,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     1. School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Singapore.
     2. Department of Automation, Tsinghua University, Beijing, China.
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
-  * [[Paper](https://arxiv.org/abs/1607.08381)]
+  * [[Paper](https://arxiv.org/abs/1607.08381)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10958956.html)]
 #### CVPR2016
 * Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function 未读
 * Learning deep feature representations with domain guided dropout for person re-identifcation 未读
