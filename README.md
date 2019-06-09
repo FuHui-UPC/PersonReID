@@ -8,6 +8,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
   * [2016](#2016): [Oct](#october)
+  * [2015](#2015): [Apr](#april)
 * [arXiv](#arxiv)
   * [2016](#2016): [Jun](#june)
 * [data](#data)
@@ -66,6 +67,11 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors: [Liang Zheng](http://www.liangzheng.com.cn/), Yi Yang, Alexander G. Hauptmann
   * Affiliation: the Centre for Quantum Computation and Intelligent Systems, University of Technology at Sydney, NSW, Australia.
   * [[paper](https://arxiv.org/abs/1610.02984)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10826916.html)]
+### 2015
+#### April
+* Deep feature learning with relative distance comparison for person re-identification 未读
+  * Pattern Recognition
+  * [[paper](https://arxiv.org/pdf/1512.03622.pdf)]
 ## arXiv
 ### 2016
 #### June
