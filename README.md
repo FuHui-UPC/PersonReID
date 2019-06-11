@@ -34,7 +34,10 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
   * [[Paper](https://arxiv.org/abs/1607.08381)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10958956.html)]
 #### CVPR2016
-* Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function 未读
+* Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function
+  * Authors: De Cheng, Yihong Gong, Sanping Zhou, [Jinjun Wang](http://gr.xjtu.edu.cn/web/jinjun), Nanning Zheng
+  * Affiliations: [Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University,Xi’an, Shaanxi, P.R. China](http://gr.xjtu.edu.cn/web/jinjun/members)
+  * [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)]
 * Learning deep feature representations with domain guided dropout for person re-identifcation 未读
 ### 2015
 #### ICCV2015
