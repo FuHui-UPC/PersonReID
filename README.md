@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2017](#2017): [ICCV2017](#iccv2017)
-  * [2016](#2016): [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
+  * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
@@ -20,6 +20,8 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Affiliation:
   * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project]()] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
 ### 2016
+#### ICPR2016
+* Person re-identification using CNN features learned from combination of attributes 未读
 #### ECCV2016
 * MARS: A Video Benchmark for Large-Scale Person Re-identification 未读
   * Authors: [Liang Zheng*](http://www.liangzheng.com.cn/), Zhi Bie*, Yifan Sun*, Jingdong Wang, Shengjin Wang, Chi Su, and Qi Tian
