@@ -57,6 +57,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Affiliations: [Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University,Xi’an, Shaanxi, P.R. China](http://gr.xjtu.edu.cn/web/jinjun/members)
   * [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/11005829.html)]
 * Learning deep feature representations with domain guided dropout for person re-identifcation 未读
+  * Authors: [Tong Xiao](http://xiaotong.me/) [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/) [Wanli Ouyang](https://wlouyang.github.io/)  [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
 ### 2015
 #### ICCV2015
 * Scalable Person Re-identification: A Benchmark
