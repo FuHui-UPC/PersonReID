@@ -2,23 +2,41 @@
 Papers about "Person Re-Identification" via deep learning methods 行人重识别深度学习方法相关论文整理
 ## Content 目录
 * [Conference Papers](#conference-papers)
-  * [2017](#2017): [ICCV2017](#iccv2017)
+  * [2018](#2018): [TOMM2018](#tomm2018) ；[CVPR2018](#cvpr2018)
+  * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017)
   * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
 * [Journal Papers](#journal-papers)
+  * [2017](#2017): [Oct](#october)
   * [2016](#2016): [Oct](#october)
   * [2015](#2015): [Apr](#april)
 * [arXiv](#arxiv)
   * [2016](#2016): [Jun](#june)
 * [data](#data)
 ## Conference Papers
+### 2018
+#### CVPR2018
+* Camera Style Adaptation for Person Re-identification 未读
+  * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
+  * [[Paper](https://arxiv.org/abs/1711.10295)] [[Project](https://github.com/zhunzhong07/CamStyle)]
+* Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification 未读
+  * Authors: Weijian Deng, [Liang Zheng](http://www.liangzheng.com.cn), Guoliang Kang, Yi Yang, Qixiang Ye, and Jianbin Jiao
+  * [[Paper](https://arxiv.org/abs/1711.07027)] [[Project](https://github.com/Simon4Yan/Learning-via-Translation)]
+#### TOMM2018
+* Unsupervised Person Re-identification: Clustering and Fine-tuning 未读
+  * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
+  * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 ### 2017
 #### ICCV2017
 * SVDNet forPedestrian Retrieval 未读 
   * Authors:
   * Affiliation:
-  * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project]()] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
+  * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
+#### TOMM2017
+* A Discriminatively Learned CNN Embedding for Person Re-identification 未读
+  * Authors: Zhedong Zheng, Liang Zheng, Yi Yang 
+  * [[Paper](https://dl.acm.org/citation.cfm?id=3159171)] [[Project](https://github.com/layumi/2016_person_re-ID)]
 ### 2016
 #### ICPR2016
 * Person re-identification using CNN features learned from combination of attributes 未读
@@ -66,6 +84,12 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Affiliation: The Chinese University of Hong Kong, Hong Kong
   * [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10845793.html)]
 ## Journal Papers
+### 2017
+#### October
+* Part-based deep hashing for large-scale person re-identification 未读
+  * Authors: Fuqing Zhu, Xiangwei Kong, Liang Zheng, Haiyan Fu, Qi Tian 
+  * IEEE Transactions on Image Processing 26 (10), 4806-4817, 2017 
+  * [[Project](https://github.com/fqzhu001/caffe-pdh-reid-2016)]
 ### 2016
 #### October
 * Person Re-identification: Past, Present and Future
