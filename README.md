@@ -55,7 +55,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function
   * Authors: De Cheng, Yihong Gong, Sanping Zhou, [Jinjun Wang](http://gr.xjtu.edu.cn/web/jinjun), Nanning Zheng
   * Affiliations: [Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University,Xi’an, Shaanxi, P.R. China](http://gr.xjtu.edu.cn/web/jinjun/members)
-  * [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)]
+  * [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/11005829.html)]
 * Learning deep feature representations with domain guided dropout for person re-identifcation 未读
 ### 2015
 #### ICCV2015
