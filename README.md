@@ -74,6 +74,9 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     * Ejaz Ahmed (from University of Maryland)  
     * Michael Jones and Tim K. Marks (from Mitsubishi Electric Research Labs)
   * [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)] [[project](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10878396.html)]
+* Person re-identification by local maximal occurrence representation and metric learning
+  * 这篇文章用传统方法达到了远超state of the art的结果，值得借鉴【未读】
+  * [[Paper](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf)] [[Project](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/)]
 ### 2014
 #### ICPR2014
 * Deep Metric Learning for Person Re-Identification
