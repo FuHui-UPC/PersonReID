@@ -39,7 +39,10 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [[Paper](https://dl.acm.org/citation.cfm?id=3159171)] [[Project](https://github.com/layumi/2016_person_re-ID)]
 ### 2016
 #### ICPR2016
-* Person re-identification using CNN features learned from combination of attributes 未读
+* Person re-identification using CNN features learned from combination of attributes
+  * Authors: Tetsu Matsukawa, Einoshin Suzuki
+  * Affliation: Faculty of Information Science and Electrical Engineering (ISEE), Kyushu University, Japan(日本九州大学)
+  * [[Paper](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/icpr2016.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/11109004.html)] 
 #### ECCV2016
 * MARS: A Video Benchmark for Large-Scale Person Re-identification 未读
   * Authors: [Liang Zheng*](http://www.liangzheng.com.cn/), Zhi Bie*, Yifan Sun*, Jingdong Wang, Shengjin Wang, Chi Su, and Qi Tian
