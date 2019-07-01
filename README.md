@@ -114,5 +114,4 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### June
 * PersonNet: Person Re-identification with Deep Convolutional Neural Networks
   * [[paper](https://arxiv.org/abs/1601.07255)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10940045.html)]
-## data 
-* [VIPeR: Viewpoint Invariant Pedestrian Recognition](https://vision.soe.ucsc.edu/node/178/)
+## [data](https://github.com/NEU-Gou/awesome-reid-dataset)
