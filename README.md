@@ -111,7 +111,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     1. University of Technology Sydney
     2. CMU
     3. Dalian University of Technology
-  * IEEE Transactions on Image Processing 26 (10), 4806-4817, 2017 
+  * IEEE Transactions on Image Processing, PP(99)
 ### 2016
 #### October
 * Person Re-identification: Past, Present and Future
