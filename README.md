@@ -54,6 +54,13 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     2. Department of Automation, Tsinghua University, Beijing, China.
     3. School of Electrical and Information Engineering, University of Sydney, Sydney, Australia.  
   * [[Paper](https://arxiv.org/abs/1607.08381)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10958956.html)]
+* Deep attributes driven multi-camera person re-identification
+  * Authors: Chi Su<sup>a</sup>, Shiliang Zhang<sup>a</sup>, Junliang Xing<sup>b</sup>, Wen Gao<sup>a</sup> and Qi Tian<sup>c</sup>
+  * Affiliations: 
+    1. Peking University, Beijing, China.
+    2. Chinese Academy of Sciences, Beijing, China
+    3. Department of Computer Science, University of Texas at San Antonio, USA
+  * [[Paper](https://arxiv.org/pdf/1605.03259.pdf)]
 #### CVPR2016
 * Person re-identifcation by multi-channel parts-based cnn with improved triplet loss function
   * Authors: De Cheng, Yihong Gong, Sanping Zhou, [Jinjun Wang](http://gr.xjtu.edu.cn/web/jinjun), Nanning Zheng
