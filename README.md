@@ -105,6 +105,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors: Fuqing Zhu, Xiangwei Kong, Liang Zheng, Haiyan Fu, Qi Tian 
   * IEEE Transactions on Image Processing 26 (10), 4806-4817, 2017 
   * [[Project](https://github.com/fqzhu001/caffe-pdh-reid-2016)]
+#### January
 * Pose Invariant Embedding for Deep Person Re-identification
   * Authors: Liang Zheng<sup>a</sup>, Yujia Huang<sup>b</sup>, Huchuan Lu<sup>c</sup>, Yi Yang†<sup>a</sup>
   * Affiliations: 
