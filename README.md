@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2018](#2018): [TOMM2018](#tomm2018) ；[CVPR2018](#cvpr2018)
-  * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017)
+  * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017) ; [CVPR2017](#cvpr2017)
   * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
   * [2014](#2014): [ICPR2014](#icpr2014) ; [CVPR2014](#cvpr2014)
@@ -28,6 +28,14 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
   * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 ### 2017
+#### CVPR2017
+* Person Re-identification in the Wild
+  * Authors: Liang Zheng1, Hengheng Zhang2, Shaoyan Sun3, Manmohan Chandraker4, Yi Yang1, Qi Tian2
+  * Affiliation:
+    1 University of Technology Sydney
+    2 UTSA
+    3 USTC
+    4 UCSD & NEC Labs
 #### ICCV2017
 * SVDNet forPedestrian Retrieval 未读 
   * Authors:
