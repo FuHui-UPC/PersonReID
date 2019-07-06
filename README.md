@@ -36,6 +36,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     2 UTSA
     3 USTC
     4 UCSD & NEC Labs
+* Unifying identification and context learning for person recognition
 #### ICCV2017
 * SVDNet forPedestrian Retrieval 未读 
   * Authors:
