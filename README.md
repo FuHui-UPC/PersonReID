@@ -44,6 +44,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   1 School of Electronics Engineering and Computer Science, Peking University, China  
   2 National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, China  
   3 Department of Computer Science, University of Texas at San Antonio, San Antonio, USA  
+  * [[PDF](https://arxiv.org/pdf/1709.08325.pdf)]
 * SVDNet forPedestrian Retrieval 未读 
   * Authors:
   * Affiliation:
