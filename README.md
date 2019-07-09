@@ -31,13 +31,19 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### CVPR2017
 * Person Re-identification in the Wild
   * Authors: Liang Zheng1, Hengheng Zhang2, Shaoyan Sun3, Manmohan Chandraker4, Yi Yang1, Qi Tian2
-  * Affiliation:
-    1 University of Technology Sydney
-    2 UTSA
-    3 USTC
-    4 UCSD & NEC Labs
+  * Affiliation:  
+    1 University of Technology Sydney  
+    2 UTSA  
+    3 USTC  
+    4 UCSD & NEC Labs  
 * Unifying identification and context learning for person recognition
 #### ICCV2017
+* Pose-driven Deep Convolutional Model for Person Re-identification
+  * Authors: Chi Su<sup>1</sup>, Jianing Li<sup>1</sup>, Shiliang Zhang<sup>1</sup>, Junliang Xing<sup>2</sup>, Wen Gao<sup>1</sup>, Qi Tian<sup>3</sup>
+  * Affliations:  
+  1 School of Electronics Engineering and Computer Science, Peking University, China  
+  2 National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, China  
+  3 Department of Computer Science, University of Texas at San Antonio, San Antonio, USA  
 * SVDNet forPedestrian Retrieval 未读 
   * Authors:
   * Affiliation:
