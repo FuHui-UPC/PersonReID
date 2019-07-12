@@ -15,5 +15,5 @@ First, we divide the feature map into n number of parts according to the spatial
 divisible by $n$. Thus, our pyramidal model is constructed according to the following rules: 1) In the bottom level ($l =1$) of the pyramid, there are n number of branches in which
 one corresponds to a basic part. 2) The branches in higher level has one more adjacent basic part than that of previous lower level. 3) The sliding step for all levels is set to one. It
 means the number of branches in the current level is just one less than that of previous level. 4) In the top level ($l = n$) of the pyramid, there is only one branch which is just the
-original feature map $M$.
+original feature map $M$.  
 ![image](https://github.com/xiaoaoran/PersonReID/blob/master/images/2019/CVPR2019/3_Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training.jpg)
