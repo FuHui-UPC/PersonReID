@@ -7,3 +7,5 @@ The scalability problem is the bottleneck for applications in large-scale system
 (1) We propose a Multi-teacher Adaptive Similarity Distillation Framework, which requires only a few labelled identities of target domain to transfer
 knowledge from multiple teacher models to a user-specified lightweight student model without accessing source domain data.  
 (2) We propose the Log-Euclidean Similarity Distillation Loss for Re-ID and further integrate the Adaptive Knowledge Aggregator to select effective teacher models to transfer target-adaptive knowledge.
+# 
+![Figure 1. A scalable adaptation Re-ID system](https://github.com/xiaoaoran/PersonReID/blob/master/images/2019/CVPR2019/1_Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.jpg)
