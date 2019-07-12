@@ -13,3 +13,5 @@ knowledge from multiple teacher models to a user-specified lightweight student m
 ## Framework
 ![Figure 2. Overview of the Multi-teacher Adaptive Similarity Distillation Framework](https://github.com/xiaoaoran/PersonReID/blob/master/images/2019/CVPR2019/2_Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.jpg)
 Let $H_S$ denote the student model to be learned and $H_T$ denote the teacher model that is fixed. The pairwise similarity matrices of the student model $H_S$ and the teacher model $H_T$ are denoted by $A_S$ and $A_T$ , respectively. To transfer knowledge from teacher to student, we minimize the distance between the student similarity matrix $A_S$ and the teacher similarity matrix $A_T$ as follow: $$min dist(A_S,A_T)$$ where $dist(·)$ is a distance metric for similarity matrices. Note that $A_T$ is fixed as the target for learning $A_S$.
+### Log Euclidean Similarity Distillation
+![image for LogEuclidean Similarity Distillation](https://github.com/xiaoaoran/PersonReID/blob/master/images/2019/CVPR2019/3_Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.jpg)
