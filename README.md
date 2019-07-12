@@ -30,7 +30,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Yiru Zhao, Xu Shen, Zhongming Jin, Hongtao Lu, Xian-sheng Hua
 * Joint Discriminative and Generative Learning for Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz
-* Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.html)]
+* Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.html)] [[review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training.md)]
   * Feng Zheng, Cheng Deng, Xing Sun, Xinyang Jiang, Xiaowei Guo, Zongqiao Yu, Feiyue Huang, Rongrong Ji
 * Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhun Zhong, Liang Zheng, Zhiming Luo, Shaozi Li, Yi Yang
