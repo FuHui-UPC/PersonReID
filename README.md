@@ -54,14 +54,14 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Zhixiang Wang, Zheng Wang, Yinqiang Zheng, Yung-Yu Chuang, Shin'ichi Satoh
 * 
 #### CVPR2018
-* Camera Style Adaptation for Person Re-identification 未读
+* Camera Style Adaptation for Person Re-identification
   * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
   * [[Paper](https://arxiv.org/abs/1711.10295)] [[Project](https://github.com/zhunzhong07/CamStyle)]
-* Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification 未读
+* Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification
   * Authors: Weijian Deng, [Liang Zheng](http://www.liangzheng.com.cn), Guoliang Kang, Yi Yang, Qixiang Ye, and Jianbin Jiao
   * [[Paper](https://arxiv.org/abs/1711.07027)] [[Project](https://github.com/Simon4Yan/Learning-via-Translation)]
 #### TOMM2018
-* Unsupervised Person Re-identification: Clustering and Fine-tuning 未读
+* Unsupervised Person Re-identification: Clustering and Fine-tuning
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
   * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 ### 2017
@@ -82,12 +82,12 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   2 National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, China  
   3 Department of Computer Science, University of Texas at San Antonio, San Antonio, USA  
   * [[PDF](https://arxiv.org/pdf/1709.08325.pdf)]
-* SVDNet forPedestrian Retrieval 未读 
+* SVDNet forPedestrian Retrieval
   * Authors:
   * Affiliation:
   * [[paper](https://arxiv.org/pdf/1703.05693.pdf)] [[project](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)] [[blog]()] [[视频讲解](http://www.mooc.ai/open/course/381#nav-tabs)]
 #### TOMM2017
-* A Discriminatively Learned CNN Embedding for Person Re-identification 未读
+* A Discriminatively Learned CNN Embedding for Person Re-identification
   * Authors: Zhedong Zheng, Liang Zheng, Yi Yang 
   * [[Paper](https://dl.acm.org/citation.cfm?id=3159171)] [[Project](https://github.com/layumi/2016_person_re-ID)]
 ### 2016
