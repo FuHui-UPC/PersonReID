@@ -56,10 +56,10 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### CVPR2018
 * Camera Style Adaptation for Person Re-identification
   * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
-  * [[Paper](https://arxiv.org/abs/1711.10295)] [[Project](https://github.com/zhunzhong07/CamStyle)]
+  * [[Paper](https://arxiv.org/abs/1711.10295)] [[code-pytorch](https://github.com/zhunzhong07/CamStyle)]
 * Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification
   * Authors: Weijian Deng, [Liang Zheng](http://www.liangzheng.com.cn), Guoliang Kang, Yi Yang, Qixiang Ye, and Jianbin Jiao
-  * [[Paper](https://arxiv.org/abs/1711.07027)] [[Project](https://github.com/Simon4Yan/Learning-via-Translation)]
+  * [[Paper](https://arxiv.org/abs/1711.07027)] [[code-caffe](https://github.com/Simon4Yan/Learning-via-Translation)]
 #### TOMM2018
 * Unsupervised Person Re-identification: Clustering and Fine-tuning
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
