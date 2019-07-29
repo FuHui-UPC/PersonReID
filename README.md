@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2019](#2019): [CVPR2019](#cvpr2019)
-  * [2018](#2018): [TOMM2018](#tomm2018) ; [CVPR2018](#cvpr2018)
+  * [2018](#2018): [TOMM2018](#tomm2018) ; [CVPR2018](#cvpr2018) ; [ECCV2018](#eccv2018)
   * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017) ; [CVPR2017](#cvpr2017)
   * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
@@ -64,6 +64,8 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Unsupervised Person Re-identification: Clustering and Fine-tuning
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
   * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
+#### ECCV2018
+* Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) [[code-pytorch](https://github.com/syfafterzy/PCB_RPP_for_reID)]
 ### 2017
 #### CVPR2017
 * Person Re-identification in the Wild
