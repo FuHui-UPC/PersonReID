@@ -3,7 +3,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Content 目录
 * [Conference Papers](#conference-papers)
   * [2019](#2019): [CVPR2019](#cvpr2019)
-  * [2018](#2018): [TOMM2018](#tomm2018) ；[CVPR2018](#cvpr2018)
+  * [2018](#2018): [TOMM2018](#tomm2018) ; [CVPR2018](#cvpr2018)
   * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017) ; [CVPR2017](#cvpr2017)
   * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
   * [2015](#2015): [CVPR2015](#cvpr2015) ; [ICCV2015](#iccv2015)
@@ -16,7 +16,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [2016](#2016): [Jun](#june)
 * [data](#data)
 ## Conference Papers
-### 2010
+### 2019
 #### CVPR2019
 * Distilled Person Re-Identification: Towards a More Scalable System [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.html)] [[Review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.md)]
   * Authors: Ancong Wu, Wei-Shi Zheng, Xiaowei Guo, Jian-Huang Lai
@@ -138,7 +138,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     * Michael Jones and Tim K. Marks (from Mitsubishi Electric Research Labs)
   * [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)] [[project](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10878396.html)]
 * Person re-identification by local maximal occurrence representation and metric learning
-  * 这篇文章用传统方法达到了远超state of the art的结果，值得借鉴【未读】
+  * 这篇文章用传统方法达到了远超state of the art的结果，值得借鉴
   * [[Paper](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf)] [[Project](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/)]
 ### 2014
 #### ICPR2014
@@ -174,7 +174,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [[paper](https://arxiv.org/abs/1610.02984)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10826916.html)]
 ### 2015
 #### April
-* Deep feature learning with relative distance comparison for person re-identification 未读
+* Deep feature learning with relative distance comparison for person re-identification
   * Pattern Recognition
   * [[paper](https://arxiv.org/pdf/1512.03622.pdf)]
 ## arXiv
