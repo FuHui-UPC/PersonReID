@@ -60,12 +60,18 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification
   * Authors: Weijian Deng, [Liang Zheng](http://www.liangzheng.com.cn), Guoliang Kang, Yi Yang, Qixiang Ye, and Jianbin Jiao
   * [[Paper](https://arxiv.org/abs/1711.07027)] [[code-caffe](https://github.com/Simon4Yan/Learning-via-Translation)]
+ * Person transfer gan to bridge domain gap for person reidentification
+  * [[PDF](https://arxiv.org/abs/1711.08565)] 
+* Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification
+  * [[PDF](https://arxiv.org/abs/1803.09786)]
 #### TOMM2018
 * Unsupervised Person Re-identification: Clustering and Fine-tuning
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
   * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/11326104.html)] 
 #### ECCV2018
 * Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) [[code-pytorch](https://github.com/syfafterzy/PCB_RPP_for_reID)]
+* Generalizing a person retrieval model hetero-and homogeneously
+  * [[PDF](http://zhunzhong.site/paper/HHL.pdf)] [[code-pytprch](https://github.com/zhunzhong07/HHL)]
 ### 2017
 #### CVPR2017
 * Person Re-identification in the Wild
