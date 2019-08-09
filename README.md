@@ -63,7 +63,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### TOMM2018
 * Unsupervised Person Re-identification: Clustering and Fine-tuning
   * Authors: Hehe Fan, [Liang Zheng](http://www.liangzheng.com.cn), Chenggang Yan, Yi Yang
-  * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
+  * [[Paper](https://hehefan.github.io/pdfs/unsupervised-person-identification.pdf)] [[Project](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/11326104.html)] 
 #### ECCV2018
 * Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) [[code-pytorch](https://github.com/syfafterzy/PCB_RPP_for_reID)]
 ### 2017
