@@ -52,7 +52,6 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Chiat-Pin Tay, Sharmili Roy, Kim-Hui Yap
 * Learning to Reduce Dual-Level Discrepancy for Infrared-Visible Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhixiang Wang, Zheng Wang, Yinqiang Zheng, Yung-Yu Chuang, Shin'ichi Satoh
-* 
 #### CVPR2018
 * Camera Style Adaptation for Person Re-identification
   * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
@@ -60,7 +59,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification
   * Authors: Weijian Deng, [Liang Zheng](http://www.liangzheng.com.cn), Guoliang Kang, Yi Yang, Qixiang Ye, and Jianbin Jiao
   * [[Paper](https://arxiv.org/abs/1711.07027)] [[code-caffe](https://github.com/Simon4Yan/Learning-via-Translation)]
- * Person transfer gan to bridge domain gap for person reidentification
+* Person transfer gan to bridge domain gap for person reidentification
   * [[PDF](https://arxiv.org/abs/1711.08565)] 
 * Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification
   * [[PDF](https://arxiv.org/abs/1803.09786)]
