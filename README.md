@@ -2,7 +2,7 @@
 Papers about "Person Re-Identification" via deep learning methods 行人重识别深度学习方法相关论文整理
 ## Content 目录
 * [Conference Papers](#conference-papers)
-  * [2019](#2019): [CVPR2019](#cvpr2019)
+  * [2019](#2019): [ICCV2019](#iccv2019) ; [IJCAI2019](ijcai2019) ; [CVPR2019](#cvpr2019)
   * [2018](#2018): [TOMM2018](#tomm2018) ; [CVPR2018](#cvpr2018) ; [ECCV2018](#eccv2018)
   * [2017](#2017): [ICCV2017](#iccv2017) ; [TOMM2017](#tomm2017) ; [CVPR2017](#cvpr2017)
   * [2016](#2016): [ICPR2016](#icpr2016) ; [ECCV2016](#eccv2016) ; [CVPR2016](#cvpr2016)
@@ -17,6 +17,11 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * [data](#data)
 ## Conference Papers
 ### 2019
+#### ICCV2019
+* Recover and Identify:A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)] 
+* Mixed High-Order Attention Network for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.05819.pdf)]
+#### IJCAI2019
+* HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning [[pdf](https://arxiv.org/abs/1908.04915)]
 #### CVPR2019
 * Distilled Person Re-Identification: Towards a More Scalable System [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.html)] [[Review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.md)]
   * Authors: Ancong Wu, Wei-Shi Zheng, Xiaowei Guo, Jian-Huang Lai
