@@ -164,9 +164,12 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Affiliation: The Chinese University of Hong Kong, Hong Kong
   * [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)] [[论文笔记](https://www.cnblogs.com/xiaoaoran/p/10845793.html)]
 ## Journal Papers
+### 2019
+* Person Re-identification in Aerial Imagery [[pdf](https://arxiv.org/pdf/1908.05024.pdf)]
+  * IEEE TRANSACTIONS ON MULTIMEDIA
 ### 2017
 #### October
-* Part-based deep hashing for large-scale person re-identification 未读
+* Part-based deep hashing for large-scale person re-identification 
   * Authors: Fuqing Zhu, Xiangwei Kong, Liang Zheng, Haiyan Fu, Qi Tian 
   * IEEE Transactions on Image Processing 26 (10), 4806-4817, 2017 
   * [[Project](https://github.com/fqzhu001/caffe-pdh-reid-2016)]
