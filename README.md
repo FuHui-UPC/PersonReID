@@ -20,8 +20,14 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### ICCV2019
 * Recover and Identify:A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)] 
 * Mixed High-Order Attention Network for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.05819.pdf)]
+* Temporal Knowledge Propagation for Image-to-Video Person Re-identification [[pdf](https://arxiv.org/pdf/1908.03885.pdf)]
 #### IJCAI2019
+* Progressive Transfer Learning for Person Re-identification [[pdf](https://arxiv.org/pdf/1908.02492.pdf)]
 * HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning [[pdf](https://arxiv.org/abs/1908.04915)]
+* Resolution-invariant Person Re-Identification [[pdf](https://www.ijcai.org/proceedings/2019/0124.pdf)]
+* Color-Sensitive Person Re-Identification [[pdf](https://www.ijcai.org/proceedings/2019/0131.pdf)]
+* LRDNN: Local-refining based Deep Neural Network for Person Re-Identification with Attribute Discerning [[pdf](https://www.ijcai.org/proceedings/2019/0146.pdf)]
+* A Part Power Set Model for Scale-Free Person Retrieval [[pdf](https://www.ijcai.org/proceedings/2019/0471.pdf)]
 #### CVPR2019
 * Distilled Person Re-Identification: Towards a More Scalable System [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.html)] [[Review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.md)]
   * Authors: Ancong Wu, Wei-Shi Zheng, Xiaowei Guo, Jian-Huang Lai
