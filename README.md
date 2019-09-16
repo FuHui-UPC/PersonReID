@@ -95,6 +95,8 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
     3 USTC  
     4 UCSD & NEC Labs  
 * Unifying identification and context learning for person recognition
+* Re-ranking Person Re-identification with k-reciprocal Encoding [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhong_Re-Ranking_Person_Re-Identification_CVPR_2017_paper.pdf)] [[code-caffe/matcaffe](https://github.com/zhunzhong07/person-re-ranking)]
+  * Authors:Zhun Zhong, Liang Zheng, Donglin Cao,Shaozi Li
 #### ICCV2017
 * Pose-driven Deep Convolutional Model for Person Re-identification
   * Authors: Chi Su<sup>1</sup>, Jianing Li<sup>1</sup>, Shiliang Zhang<sup>1</sup>, Junliang Xing<sup>2</sup>, Wen Gao<sup>1</sup>, Qi Tian<sup>3</sup>
