@@ -22,6 +22,14 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Mixed High-Order Attention Network for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.05819.pdf)]
 * Temporal Knowledge Propagation for Image-to-Video Person Re-identification [[pdf](https://arxiv.org/pdf/1908.03885.pdf)]
 * ABD-Net: Attentive but Diverse Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.01114.pdf)]
+* Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation [[pdf](https://arxiv.org/pdf/1909.09675.pdf)]
+* Second-order Non-local Attention Networks for Person Re-identification [[pdf](https://arxiv.org/pdf/1909.00295.pdf)]
+* Intra-Camera Supervised Person Re-Identification: A New Benchmark [[pdf](https://arxiv.org/pdf/1908.10344.pdf)] *iccv19 workshop*
+* Global-Local Temporal Representations For Video Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.10049.pdf)]
+* advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns [[pdf](https://arxiv.org/pdf/1908.09327.pdf)]
+* SBSGAN: Suppression of Inter-Domain Background Shift for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.09086.pdf)]
+* Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)]
+* HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions [[pdf](https://arxiv.org/pdf/1908.03888)]
 #### IJCAI2019
 * Progressive Transfer Learning for Person Re-identification [[pdf](https://arxiv.org/pdf/1908.02492.pdf)]
 * HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning [[pdf](https://arxiv.org/abs/1908.04915)]
