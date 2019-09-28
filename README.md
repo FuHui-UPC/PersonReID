@@ -50,7 +50,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Zhizheng Zhang, Cuiling Lan, Wenjun Zeng, Zhibo Chen
 * Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Attribute-Driven_Feature_Disentangling_and_Temporal_Aggregation_for_Video_Person_Re-Identification_CVPR_2019_paper.html)]
   * Yiru Zhao, Xu Shen, Zhongming Jin, Hongtao Lu, Xian-sheng Hua
-* **Joint Discriminative and Generative Learning for Person Re-Identification** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.html)] [[code-pytorch](https://github.com/NVlabs/DG-Net)] [[blog-by-author](https://blog.csdn.net/Layumi1993/article/details/90257375)]
+* Joint Discriminative and Generative Learning for Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.html)] [[code-pytorch](https://github.com/NVlabs/DG-Net)] [[blog-by-author](https://blog.csdn.net/Layumi1993/article/details/90257375)]
   * [[Zhedong Zheng](https://zhengzhedong.oschina.io/)], Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz
 * Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.html)] [[review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training.md)]
   * Feng Zheng, Cheng Deng, Xing Sun, Xinyang Jiang, Xiaowei Guo, Zongqiao Yu, Feiyue Huang, Rongrong Ji
@@ -74,6 +74,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Chiat-Pin Tay, Sharmili Roy, Kim-Hui Yap
 * Learning to Reduce Dual-Level Discrepancy for Infrared-Visible Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhixiang Wang, Zheng Wang, Yinqiang Zheng, Yung-Yu Chuang, Shin'ichi Satoh
+* Unsupervised Person Re-Identification With Iterative Self-Supervised Domain Adaptation *[workshop]* [[pdf](http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Tang_Unsupervised_Person_Re-Identification_With_Iterative_Self-Supervised_Domain_Adaptation_CVPRW_2019_paper.html)]
 #### CVPR2018
 * Camera Style Adaptation for Person Re-identification
   * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
