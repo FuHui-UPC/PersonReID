@@ -75,6 +75,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Learning to Reduce Dual-Level Discrepancy for Infrared-Visible Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhixiang Wang, Zheng Wang, Yinqiang Zheng, Yung-Yu Chuang, Shin'ichi Satoh
 * Unsupervised Person Re-Identification With Iterative Self-Supervised Domain Adaptation *[workshop]* [[pdf](http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Tang_Unsupervised_Person_Re-Identification_With_Iterative_Self-Supervised_Domain_Adaptation_CVPRW_2019_paper.html)]
+### 2018
 #### CVPR2018
 * Camera Style Adaptation for Person Re-identification
   * Authors: Zhun Zhong, [Liang Zheng](http://www.liangzheng.com.cn), Zhedong Zheng, Shaozi Li, Yi Yang
