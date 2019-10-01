@@ -44,7 +44,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * Authors: Ancong Wu, Wei-Shi Zheng, Xiaowei Guo, Jian-Huang Lai
 * Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]
   * Authors: Qize Yang, Hong-Xing Yu, Ancong Wu, Wei-Shi Zheng
-* Unsupervised Person Re-Identification by Soft Multilabel Learning [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)]
+* Unsupervised Person Re-Identification by Soft Multilabel Learning [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)] [[code-pytorch](https://github.com/KovenYu/MAR)] 
   * Hong-Xing Yu, Wei-Shi Zheng, Ancong Wu, Xiaowei Guo, Shaogang Gong, Jian-Huang Lai
 * Densely Semantically Aligned Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Densely_Semantically_Aligned_Person_Re-Identification_CVPR_2019_paper.html)]
   * Zhizheng Zhang, Cuiling Lan, Wenjun Zeng, Zhibo Chen
