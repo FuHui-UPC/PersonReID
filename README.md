@@ -54,7 +54,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
   * [[Zhedong Zheng](https://zhengzhedong.oschina.io/)], Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz
 * Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.html)] [[review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training.md)]
   * Feng Zheng, Cheng Deng, Xing Sun, Xinyang Jiang, Xiaowei Guo, Zongqiao Yu, Feiyue Huang, Rongrong Ji
-* Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.html)]
+* Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.html)] [[code-pytorch](https://github.com/zhunzhong07/ECN)] 
   * Zhun Zhong, Liang Zheng, Zhiming Luo, Shaozi Li, Yi Yang
 * Re-Ranking via Metric Fusion for Object Retrieval and Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.html)]
   * Song Bai, Peng Tang, Philip H.S. Torr, Longin Jan Latecki
