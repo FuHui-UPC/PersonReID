@@ -28,7 +28,6 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Global-Local Temporal Representations For Video Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.10049.pdf)]
 * advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns [[pdf](https://arxiv.org/pdf/1908.09327.pdf)]
 * SBSGAN: Suppression of Inter-Domain Background Shift for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.09086.pdf)]
-* Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)]
 * HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions [[pdf](https://arxiv.org/pdf/1908.03888)]
 #### IJCAI2019
 * Progressive Transfer Learning for Person Re-identification [[pdf](https://arxiv.org/pdf/1908.02492.pdf)]
