@@ -42,7 +42,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 #### CVPR2019
 * Distilled Person Re-Identification: Towards a More Scalable System [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.html)] [[Review](https://github.com/xiaoaoran/PersonReID/blob/master/Conference%20Papers/2019/CVPR2019/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System.md)]
   * Authors: Ancong Wu, Wei-Shi Zheng, Xiaowei Guo, Jian-Huang Lai
-* Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]
+* Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]  [[code-pytorch](https://github.com/QizeYang/PAUL)]
   * Authors: Qize Yang, Hong-Xing Yu, Ancong Wu, Wei-Shi Zheng
 * Unsupervised Person Re-Identification by Soft Multilabel Learning [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)] [[code-pytorch](https://github.com/KovenYu/MAR)] 
   * Hong-Xing Yu, Wei-Shi Zheng, Ancong Wu, Xiaowei Guo, Shaogang Gong, Jian-Huang Lai
