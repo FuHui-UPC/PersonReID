@@ -18,6 +18,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 ## Conference Papers
 ### 2019
 #### ICCV2019
+* View Confusion Feature Learning for Person Re-identification [[pdf](https://arxiv.org/pdf/1910.03849.pdf)]
 * Recover and Identify:A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)] 
 * Mixed High-Order Attention Network for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.05819.pdf)] [[code-pytorch](https://github.com/chenbinghui1/MHN)]
 * Temporal Knowledge Propagation for Image-to-Video Person Re-identification [[pdf](https://arxiv.org/pdf/1908.03885.pdf)]
