@@ -30,6 +30,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns [[pdf](https://arxiv.org/pdf/1908.09327.pdf)]
 * SBSGAN: Suppression of Inter-Domain Background Shift for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.09086.pdf)]
 * HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions [[pdf](https://arxiv.org/pdf/1908.03888)] [[code-pytorch](https://github.com/d-li14/HBONet)]
+* Spectral feature transformation for person re-identification [[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Spectral_Feature_Transformation_for_Person_Re-Identification_ICCV_2019_paper.pdf)] [[code-MXNet](https://github.com/LuckyDC/SFT_REID)] 
 #### IJCAI2019
 * Progressive Transfer Learning for Person Re-identification [[pdf](https://arxiv.org/pdf/1908.02492.pdf)]
 * HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning [[pdf](https://arxiv.org/abs/1908.04915)]
