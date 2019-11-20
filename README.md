@@ -22,7 +22,7 @@ Papers about "Person Re-Identification" via deep learning methods 行人重识�
 * Recover and Identify:A Generative Dual Model for Cross-Resolution Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.06052.pdf)] 
 * Mixed High-Order Attention Network for Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.05819.pdf)] [[code-pytorch](https://github.com/chenbinghui1/MHN)]
 * Temporal Knowledge Propagation for Image-to-Video Person Re-identification [[pdf](https://arxiv.org/pdf/1908.03885.pdf)]
-* ABD-Net: Attentive but Diverse Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.01114.pdf)]
+* ABD-Net: Attentive but Diverse Person Re-Identification [[pdf](https://arxiv.org/pdf/1908.01114.pdf)] [[code-pytorch](https://github.com/TAMU-VITA/ABD-Net)]
 * Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation [[pdf](https://arxiv.org/pdf/1909.09675.pdf)]
 * Second-order Non-local Attention Networks for Person Re-identification [[pdf](https://arxiv.org/pdf/1909.00295.pdf)]
 * Intra-Camera Supervised Person Re-Identification: A New Benchmark [[pdf](https://arxiv.org/pdf/1908.10344.pdf)] *iccv19 workshop*
